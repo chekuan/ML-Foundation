@@ -1,5 +1,5 @@
 # Machine Learning Foundation
 
-### Here has some "Machine Learning Foundation" notes, and some algorithms & models implement.
+### Here are the notes on "Machine Learning Foundation", as well as the implementaion of algorithms & models.
 
-##### Mainly reference to the "Hsuan-Tien Lin" on-line course.
+###### Mainly reference to the "Hsuan-Tien Lin" on-line course.
